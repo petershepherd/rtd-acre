@@ -206,3 +206,23 @@ This operational model ensures that:
 ACRE does not replace land registries. It provides them with a secure,
 interoperable, and future-proof execution layer for registration, transfer, and
 auditability.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   index
+   problem
+   immutability
+   bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
+   law-and-blockchain
+   technical-architecture
+   practical-operation
+   escrow-lock-oracle-security-model
+   registry-integration-patterns
+   threat-model-and-failure-scenarios
+   acre-token-economy
+   strategic-positioning-and-institutional-overview
