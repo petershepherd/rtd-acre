@@ -100,6 +100,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   index
    problem
    immutability
    principles
