@@ -116,3 +116,23 @@ This context sets the foundation for understanding why a new, more resilient,
 and verifiable infrastructure is required—one that can coexist with existing
 legal systems while improving transparency, efficiency, and trust at a global
 scale.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   index
+   problem
+   immutability
+   bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
+   law-and-blockchain
+   technical-architecture
+   practical-operation
+   escrow-lock-oracle-security-model
+   registry-integration-patterns
+   threat-model-and-failure-scenarios
+   acre-token-economy
+   strategic-positioning-and-institutional-overview
