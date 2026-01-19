@@ -109,3 +109,4 @@ Contents
    technical-architecture
    practical-operation
    escrow-lock-oracle-security-model
+   threat-model-and-failure-scenarios
