@@ -174,3 +174,23 @@ The ACRE legal model is based on three core principles:
 
 This design makes ACRE suitable not only for private markets, but also for
 government adoption, land registry modernization, and institutional use.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   index
+   problem
+   immutability
+   bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
+   law-and-blockchain
+   technical-architecture
+   practical-operation
+   escrow-lock-oracle-security-model
+   registry-integration-patterns
+   threat-model-and-failure-scenarios
+   acre-token-economy
+   strategic-positioning-and-institutional-overview
