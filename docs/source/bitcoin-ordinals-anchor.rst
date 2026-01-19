@@ -165,3 +165,23 @@ provide:
 In the ACRE architecture, Bitcoin Ordinals do not replace land registries.
 Instead, they provide a neutral and permanent foundation of truth upon which
 modern, interoperable land administration systems can be built.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   index
+   problem
+   immutability
+   bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
+   law-and-blockchain
+   technical-architecture
+   practical-operation
+   escrow-lock-oracle-security-model
+   registry-integration-patterns
+   threat-model-and-failure-scenarios
+   acre-token-economy
+   strategic-positioning-and-institutional-overview
