@@ -104,3 +104,4 @@ Contents
    problem
    immutability
    bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
