@@ -108,3 +108,4 @@ Contents
    law-and-blockchain
    technical-architecture
    practical-operation
+   escrow-lock-oracle-security-model
