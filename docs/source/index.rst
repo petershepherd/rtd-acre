@@ -111,3 +111,4 @@ Contents
    escrow-lock-oracle-security-model
    registry-integration-patterns
    threat-model-and-failure-scenarios
+   acre-token-economy
