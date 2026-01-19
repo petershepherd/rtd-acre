@@ -109,4 +109,5 @@ Contents
    technical-architecture
    practical-operation
    escrow-lock-oracle-security-model
+   registry-integration-patterns
    threat-model-and-failure-scenarios
