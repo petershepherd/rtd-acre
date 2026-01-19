@@ -100,7 +100,6 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   index
    problem
    immutability
    bitcoin-as-data-layer
