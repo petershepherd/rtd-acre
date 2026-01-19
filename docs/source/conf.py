@@ -1,0 +1,17 @@
+# -- Project information -----------------------------------------------------
+
+project = 'ACRE'
+author = 'ACRE Protocol'
+copyright = '2026, ACRE'
+
+# -- General configuration ---------------------------------------------------
+
+extensions = []
+
+templates_path = ['_templates']
+exclude_patterns = []
+
+# -- Options for HTML output -------------------------------------------------
+
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
