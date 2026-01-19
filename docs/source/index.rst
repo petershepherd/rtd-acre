@@ -103,10 +103,4 @@ Contents
    index
    problem
    immutability
-   principles
-   architecture/index
-   legal/index
-   governance
-   threat-model
-   roadmap
-   glossary
+   bitcoin-as-data-layer
