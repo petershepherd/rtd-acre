@@ -111,23 +111,3 @@ A future in which:
 
 ACRE is built to outlast market cycles. It is designed to persist as long as land
 itself.
-
-Contents
---------
-
-.. toctree::
-   :maxdepth: 2
-
-   index
-   problem
-   immutability
-   bitcoin-as-data-layer
-   bitcoin-ordinals-anchor
-   law-and-blockchain
-   technical-architecture
-   practical-operation
-   escrow-lock-oracle-security-model
-   registry-integration-patterns
-   threat-model-and-failure-scenarios
-   acre-token-economy
-   strategic-positioning-and-institutional-overview
