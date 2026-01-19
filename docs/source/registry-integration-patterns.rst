@@ -117,3 +117,23 @@ ACRE provides a flexible, jurisdiction-aware integration layer that:
 By accommodating Dubai-style innovation, EU civil law rigor, common law
 flexibility, and sandbox experimentation, ACRE establishes itself as a universal
 execution layer for land registries rather than a competing system.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   index
+   problem
+   immutability
+   bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
+   law-and-blockchain
+   technical-architecture
+   practical-operation
+   escrow-lock-oracle-security-model
+   registry-integration-patterns
+   threat-model-and-failure-scenarios
+   acre-token-economy
+   strategic-positioning-and-institutional-overview
