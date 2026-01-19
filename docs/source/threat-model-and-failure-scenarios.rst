@@ -116,24 +116,73 @@ Mitigation Strategy
 Key Principle
 ~~~~~~~~~~~~~
 
-Immutability does not mean irreversibility. I
+Immutability does not mean irreversibility. It means transparent and auditable
+change history.
 
-Contents
---------
+10.4 Dispute Handling and Legal Intervention
+--------------------------------------------
 
-.. toctree::
-   :maxdepth: 2
+Threat
+~~~~~~
 
-   index
-   problem
-   immutability
-   bitcoin-as-data-layer
-   bitcoin-ordinals-anchor
-   law-and-blockchain
-   technical-architecture
-   practical-operation
-   escrow-lock-oracle-security-model
-   registry-integration-patterns
-   threat-model-and-failure-scenarios
-   acre-token-economy
-   strategic-positioning-and-institutional-overview
+Disputes may arise from ownership claims, inheritance cases, fraud allegations,
+or regulatory intervention.
+
+Mitigation Strategy
+~~~~~~~~~~~~~~~~~~~
+
+1. Human-in-the-Loop Governance  
+   ACRE explicitly supports court orders, registry overrides, and administrative
+   corrections.
+
+2. Dispute Flagging Mechanism  
+   Properties under dispute can be temporarily frozen, excluded from settlement,
+   and clearly marked within the system.
+
+3. On-Chain Evidence for Off-Chain Courts  
+   The blockchain provides timestamped records, cryptographic proofs, and full
+   transaction lineage as evidentiary material.
+
+Key Principle
+~~~~~~~~~~~~~
+
+ACRE supports the legal system; it does not attempt to replace it.
+
+10.5 Design Philosophy
+---------------------
+
+ACRE is built on the assumption that real estate is not a purely technical
+domain.
+
+Security is achieved not by eliminating trust, but by:
+
+- Minimizing blind trust,
+- Maximizing verifiability,
+- Aligning on-chain execution with legal reality.
+
+The protocol prioritizes safety over speed, correctness over convenience, and
+institutional compatibility over ideological purity.
+
+10.6 Smart Contract Risk Mitigation
+-----------------------------------
+
+All smart contracts deployed on operational layers undergo rigorous external
+security audits prior to mainnet deployment.
+
+Audits are performed by independent security firms and focus on vulnerability
+detection, logical correctness, and adversarial behavior. While no software
+system can be entirely risk-free, this process significantly reduces technical
+attack surfaces and aligns ACRE with institutional security expectations.
+
+10.7 Conclusion
+---------------
+
+Failure scenarios are not weaknesses in the ACRE model; they are explicitly
+anticipated design inputs.
+
+By treating land registries as authorities, oracles as bridges rather than
+judges, and blockchain as an execution and audit layer, ACRE remains stable even
+when parts of the surrounding environment fail.
+
+This approach makes ACRE suitable for governments, land offices, courts, and
+institutional stakeholders, not only for crypto-native users.
