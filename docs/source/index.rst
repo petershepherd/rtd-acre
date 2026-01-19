@@ -106,3 +106,4 @@ Contents
    bitcoin-as-data-layer
    bitcoin-ordinals-anchor
    law-and-blockchain
+   technical-architecture
