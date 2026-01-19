@@ -151,3 +151,23 @@ newer blockchain can match.
 
 This is why ACRE anchors its immutable records on Bitcoin: not for speed, but for
 truth.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   index
+   problem
+   immutability
+   bitcoin-as-data-layer
+   bitcoin-ordinals-anchor
+   law-and-blockchain
+   technical-architecture
+   practical-operation
+   escrow-lock-oracle-security-model
+   registry-integration-patterns
+   threat-model-and-failure-scenarios
+   acre-token-economy
+   strategic-positioning-and-institutional-overview
