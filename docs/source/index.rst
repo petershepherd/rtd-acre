@@ -101,6 +101,7 @@ Contents
    :maxdepth: 2
 
    problem
+   immutability
    principles
    architecture/index
    legal/index
