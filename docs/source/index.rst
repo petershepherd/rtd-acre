@@ -107,3 +107,4 @@ Contents
    bitcoin-ordinals-anchor
    law-and-blockchain
    technical-architecture
+   practical-operation
