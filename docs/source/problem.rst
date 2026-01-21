@@ -6,7 +6,7 @@ understand the limitations of the systems currently in use. These issues are
 not theoretical. They affect governments, buyers, sellers, banks, and
 investors on a daily basis, across almost every jurisdiction in the world.
 
-1. Fragmented and Siloed Data Systems
+1.1 Fragmented and Siloed Data Systems
 ------------------------------------
 
 Land registry data is typically stored in isolated, jurisdiction-specific
@@ -23,7 +23,7 @@ Even within the same country, different agencies such as land registries, tax
 authorities, zoning offices, and courts often maintain separate records, which
 must be manually reconciled.
 
-2. Slow and Inefficient Administrative Processes
+1.2 Slow and Inefficient Administrative Processes
 ------------------------------------------------
 
 Most property transactions still rely on multi-step, manual workflows,
@@ -42,7 +42,7 @@ These processes introduce:
 In fast-moving markets, this inefficiency directly limits liquidity and
 discourages participation.
 
-3. Limited Transparency and Auditability
+1.3 Limited Transparency and Auditability
 ----------------------------------------
 
 Although land registries are intended to be authoritative, in practice:
@@ -55,7 +55,7 @@ In some jurisdictions, records can be altered retroactively by authorized
 parties. This undermines trust and creates uncertainty for buyers, lenders,
 and investors.
 
-4. Trust and Integrity Risks
+1.4 Trust and Integrity Risks
 ----------------------------
 
 Because current systems rely heavily on centralized control and human
@@ -71,7 +71,7 @@ and objective verification, systemic risk increases. Inaccurate valuations
 distort lending decisions, increase leverage, and can destabilize entire
 economies.
 
-5. Inconsistent Standards Across Jurisdictions
+1.5 Inconsistent Standards Across Jurisdictions
 -----------------------------------------------
 
 While land registry systems differ by country, they share similar structural
@@ -85,7 +85,7 @@ weaknesses:
 This lack of standardization makes it difficult to build modern, interoperable
 real estate markets and significantly limits innovation at a global scale.
 
-6. Illiquidity of Real Estate Assets
+1.6 Illiquidity of Real Estate Assets
 ------------------------------------
 
 Real estate remains one of the least liquid major asset classes. Selling a
