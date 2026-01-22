@@ -10,17 +10,15 @@ stakeholders evaluating ACRE at a systemic level.
 
 Core protocol components are designed to be as minimal and stable as possible.
 
-Where upgrades are required for security, compliance, or interoperability
-reasons, changes are strictly limited to clearly scoped operational modules.
-Such upgrades are executed by designated technical maintainers under transparent
-deployment and review procedures.
+Where upgrades are required for security or interoperability reasons, changes
+are limited to clearly scoped operational modules and are executed by designated
+technical maintainers under transparent deployment and review procedures.
 
 No protocol upgrade may alter:
 
 - Legal authority,
 - Registry supremacy,
-- Ownership rules,
-- Jurisdictional compliance guarantees.
+- Ownership rules.
 
 As a result, technical evolution cannot override legal or institutional
 foundations.
@@ -40,7 +38,7 @@ Key properties include:
 - No reliance on token governance or inflation.
 
 The protocol augments existing land registries rather than attempting to replace
-them, making it compatible with conservative regulatory environments and
+them, making it suitable for conservative regulatory environments and
 mission-critical public infrastructure.
 
 13.3 Comparison with Other RWA Projects
@@ -76,38 +74,42 @@ jurisdictions.
 Does token ownership represent property ownership?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-No. Tokens regulate technical access and capacity within the protocol; they do
-not represent legal title or ownership rights.
+No. Tokens regulate technical access and operational capacity; they do not
+represent legal title or ownership rights.
 
 What prevents double sales?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A combination of legal locks, registry confirmation, oracle attestation, and
-immutable audit trails prevents both technical and legal double-selling.
+immutable audit trails.
 
 What happens if cryptographic keys are lost?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Registry-authorized recovery is possible through append-only child inscriptions,
-ensuring continuity without compromising historical integrity.
+Registry-authorized recovery via append-only child inscriptions, without
+modifying historical records.
 
 Is ACRE dependent on a specific blockchain?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 No. Bitcoin anchors immutable truth, while operational layers are modular and
-replaceable as technology and regulatory conditions evolve.
+replaceable.
 
-13.5 Long-Term Vision
----------------------
+13.5 Non-Competitive Infrastructure Design
+------------------------------------------
 
-ACRE’s objective is not market dominance, but standardization.
+ACRE is not designed to compete with real estate marketplaces.
 
-A future in which:
+Marketplaces excel at user acquisition, liquidity generation, and transaction
+execution, and will continue to play a central role in the tokenized real estate
+economy.
 
-- Land registries interoperate across borders,
-- Property transfers are auditable in near real time,
-- Disputes are resolved using cryptographic evidence,
-- Real estate markets are transparent by default.
+ACRE’s purpose is fundamentally different. It provides shared, neutral
+infrastructure that marketplaces can build on top of, acting as a security,
+verification, and coordination layer between land registries and execution
+platforms.
 
-ACRE is built to outlast market cycles. It is designed to persist as long as land
-itself.
+By separating verification and settlement integrity from marketplace
+competition, ACRE reduces systemic risk, helps prevent double sales and record
+inconsistencies, and increases trust for both institutional and retail
+participant
