@@ -112,4 +112,24 @@ platforms.
 By separating verification and settlement integrity from marketplace
 competition, ACRE reduces systemic risk, helps prevent double sales and record
 inconsistencies, and increases trust for both institutional and retail
-participant
+participants.
+
+This architectural separation allows marketplaces to innovate and compete
+freely on user experience and distribution, while relying on a common,
+registry-aligned foundation for correctness, auditability, and long-term legal
+defensibility.
+
+13.6 Long-Term Vision
+---------------------
+
+ACRE’s objective is not market dominance, but standardization.
+
+A future in which:
+
+- Land registries interoperate across borders,
+- Property transfers are auditable in near real time,
+- Disputes are resolved using cryptographic evidence,
+- Real estate markets are transparent by default.
+
+ACRE is built to outlast market cycles. It is designed to persist as long as land
+itself.
