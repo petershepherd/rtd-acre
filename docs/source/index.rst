@@ -113,3 +113,4 @@ Contents
    acre-token-economy
    strategic-positioning-and-institutional-overview
    future-capabilities-and-ecosystem-extensions
+   the-acre-manifesto
