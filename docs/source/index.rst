@@ -112,3 +112,4 @@ Contents
    threat-model-and-failure-scenarios
    acre-token-economy
    strategic-positioning-and-institutional-overview
+   future-capabilities-and-ecosystem-extensions
