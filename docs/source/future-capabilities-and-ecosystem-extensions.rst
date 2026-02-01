@@ -6,14 +6,37 @@ provide standardized, registry-aligned, and immutably anchored data for
 real-world assets, while preserving legal authority, pricing discretion, and
 decision-making outside the protocol.
 
-This architecture enables a range of future analytical and intelligence-driven
-extensions to be built on top of ACRE-verified data, without altering ACRE’s
-core role as a neutral execution and verification layer.
+This architecture intentionally separates *truth and verification* from
+*analysis, intelligence, and user experience*. As a result, ACRE enables a
+broad ecosystem of external applications, analytical systems, and institutional
+tools to be built on top of ACRE-verified data, without altering ACRE’s core role
+as a neutral execution and verification layer.
 
-Importantly, these extensions do not grant authority, enforce outcomes, or
-replace institutional judgment. They function strictly as decision-support and
-analytical tools intended to improve market efficiency, transparency, and risk
-awareness.
+Importantly, all capabilities described in this section are strictly
+non-authoritative. They do not enforce outcomes, replace institutional judgment,
+or introduce governance, custody, or pricing decisions into the protocol.
+Instead, they function exclusively as decision-support and analytical tools
+designed to improve market efficiency, transparency, and risk awareness.
+
+Intelligence & Compliance Hub (API Access Layer)
+------------------------------------------------
+
+To enable ecosystem growth and third-party innovation, ACRE supports an
+Intelligence & Compliance Hub that serves as a controlled API access layer to
+ACRE-verified data.
+
+This hub functions as a gateway between the ACRE protocol and external systems,
+including marketplaces, banks, analytics providers, and institutional tools.
+Through standardized APIs, authorized external applications may consume
+selected, non-identifying, and registry-aligned data without interacting
+directly with the core protocol.
+
+The Intelligence & Compliance Hub does not expose personal data, does not grant
+decision-making authority, and does not enable protocol manipulation. It
+operates strictly as a read-only, verification and intelligence interface.
+
+This design transforms ACRE from an isolated system into an open ecosystem,
+while preserving protocol neutrality and legal compliance.
 
 AI-Assisted Valuation Support
 -----------------------------
@@ -27,12 +50,12 @@ Such tools may leverage:
 - Historical transaction data,
 - Registry-confirmed asset attributes,
 - Jurisdictional metadata,
-- Market-level signals.
+- Aggregated market signals.
 
 The objective is to support more accurate listing prices, accelerate transaction
 timelines, and reduce the risk of underpricing or mispricing assets.
 
-All valuation outputs are informational only and do not constitute legal,
+All valuation outputs are informational only. They do not constitute legal,
 financial, or appraisal authority. Final pricing decisions remain entirely with
 property owners, market participants, and competent institutions.
 
@@ -50,7 +73,7 @@ Potential applications include:
 
 These systems do not initiate enforcement actions or decisions. They function
 solely as monitoring and alerting tools for institutions, regulators, and market
-participants.
+participants, enhancing oversight without altering authority structures.
 
 Liquidity and Market Dynamics Modeling
 --------------------------------------
@@ -107,7 +130,8 @@ jurisdiction-specific compliance constraints embedded in ACRE metadata, such as:
 - Regulatory flags.
 
 This enables marketplaces and institutions to better understand the operational
-context of assets without assuming legal or settlement responsibility.
+context of assets without assuming legal, regulatory, or settlement
+responsibility.
 
 Aggregated Market Intelligence
 -------------------------------
@@ -122,7 +146,7 @@ These insights may include:
 - Settlement dynamics.
 
 No personally identifiable information, individual pricing recommendations, or
-asset-specific predictions are exposed.
+asset-specific predictions are exposed through these mechanisms.
 
 Architectural Boundary
 ----------------------
@@ -133,4 +157,5 @@ verified data layer.
 They do not modify core protocol behavior, do not alter legal authority, and do
 not shift ownership, pricing, or governance decisions on-chain.
 
-ACRE remains infrastructure. Intelligence is additive, optional, and external.
+ACRE remains infrastructure.  
+Intelligence is additive, optional, and external.
